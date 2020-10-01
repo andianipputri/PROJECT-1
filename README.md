@@ -11,7 +11,7 @@ class Page extends BaseController
     
     public function contact()
 	{
-		echo view("contact");
+		echo view("contact ");
 	}
     
     public function faqs()
